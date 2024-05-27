@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<Eventos>
+  <Year Ano="2014">
+    <Data>03/04/2014</Data>
+    <Mes>Março</Mes>
+    <Hora>16:00</Hora>
+    <Tipo>Casamento</Tipo>
+    <Contratante>Exemplo</Contratante>
+    <Status>Concluído</Status>
+    <Obs>ExemploExemploExemploExemploExemplo</Obs>
+  </Year>
+</Eventos>

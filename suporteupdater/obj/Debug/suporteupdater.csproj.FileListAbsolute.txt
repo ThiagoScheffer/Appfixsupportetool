@@ -1,0 +1,27 @@
+C:\Users\EncryptorX\documents\visual studio 2013\Projects\Suporte\suporteupdater\bin\Debug\suporteupdater.exe.config
+C:\Users\EncryptorX\documents\visual studio 2013\Projects\Suporte\suporteupdater\bin\Debug\suporteupdater.exe
+C:\Users\EncryptorX\documents\visual studio 2013\Projects\Suporte\suporteupdater\bin\Debug\suporteupdater.pdb
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\Resources\suporteupdater.exe.config
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\Resources\suporteupdater.exe
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\Resources\suporteupdater.pdb
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\suporteupdater\obj\Debug\suporteupdater.csprojResolveAssemblyReference.cache
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\suporteupdater\obj\Debug\suporteupdater.exe
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\suporteupdater\obj\Debug\suporteupdater.pdb
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\Resources\suporteupdater.exe.config
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\Resources\suporteupdater.exe
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\Resources\suporteupdater.pdb
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\suporteupdater\obj\Debug\suporteupdater.exe
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\suporteupdater\obj\Debug\suporteupdater.pdb
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\suporteupdater\obj\Debug\suporteupdater.csprojResolveAssemblyReference.cache
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\Resources\suporteupdater.exe.config
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\Resources\suporteupdater.exe
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\Resources\suporteupdater.pdb
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\suporteupdater\obj\Debug\suporteupdater.exe
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\suporteupdater\obj\Debug\suporteupdater.pdb
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\Resources\suporteupdater.exe.config
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\Resources\suporteupdater.exe
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\Resources\suporteupdater.pdb
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\suporteupdater\obj\Debug\suporteupdater.csprojAssemblyReference.cache
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\suporteupdater\obj\Debug\suporteupdater.csproj.CopyComplete
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\suporteupdater\obj\Debug\suporteupdater.exe
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\suporteupdater\obj\Debug\suporteupdater.pdb

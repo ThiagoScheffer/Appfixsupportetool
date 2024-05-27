@@ -1,0 +1,15 @@
+-- Script Date: 25/02/2016 18:18  - ErikEJ.SqlCeScripting version 3.5.2.58
+CREATE TABLE [Pagamentos] (
+  [Id] int IDENTITY (1,1) NOT NULL 
+, [Cliente] nchar(100) NOT NULL
+, [Data] datetime NOT NULL
+, [Tipo] nchar(24) NOT NULL
+, [Valor] money NOT NULL
+, [PC] nchar(30) NOT NULL
+, [Status] nchar(10) NOT NULL
+, [Descricao] ntext NOT NULL
+, [Ano] datetime NOT NULL
+);
+GO
+ALTER TABLE [Pagamentos] ADD CONSTRAINT [PK_Pagamentos] PRIMARY KEY ([Id]);
+GO
