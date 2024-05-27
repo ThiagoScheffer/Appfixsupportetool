@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CFE015B8-9E93-4F07-99F1-2F6BBD533C6D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Suporte</RootNamespace>
+    <AssemblyName>Suporte</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Suporte.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Toasts.Forms.Plugin.Abstractions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Toasts.Forms.Plugin.3.3.2\lib\netstandard1.1\Toasts.Forms.Plugin.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cAtivacao.cs" />
+    <Compile Include="cCommon.cs" />
+    <Compile Include="cEditor.cs" />
+    <Compile Include="cHDCheck.cs" />
+    <Compile Include="cIntegridade.cs" />
+    <Compile Include="cMessenger.cs" />
+    <Compile Include="frmControledeProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControledeProdutos.Designer.cs">
+      <DependentUpon>frmControledeProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cRegistros.cs" />
+    <Compile Include="frmAgenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgenda.designer.cs">
+      <DependentUpon>frmAgenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAutoShutdown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAutoShutdown.Designer.cs">
+      <DependentUpon>frmAutoShutdown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmControledeClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmControledeClientes.Designer.cs">
+      <DependentUpon>FrmControledeClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmControledeEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControledeEstoque.Designer.cs">
+      <DependentUpon>frmControledeEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmControledeServicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControledeServicos.Designer.cs">
+      <DependentUpon>frmControledeServicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdministrador.Designer.cs">
+      <DependentUpon>frmAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmControledePag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControledePag.Designer.cs">
+      <DependentUpon>frmControledePag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgEventos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgEventos.Designer.cs">
+      <DependentUpon>frmAgEventos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmControledeSituacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControledeSituacao.Designer.cs">
+      <DependentUpon>frmControledeSituacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmControledoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControledoCliente.Designer.cs">
+      <DependentUpon>frmControledoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditor.designer.cs">
+      <DependentUpon>frmEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmail.designer.cs">
+      <DependentUpon>frmEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFerramentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFerramentas.designer.cs">
+      <DependentUpon>frmFerramentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInfoSistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInfoSistema.Designer.cs">
+      <DependentUpon>frmInfoSistema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmControledeOrcamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControledeOrcamentos.designer.cs">
+      <DependentUpon>frmControledeOrcamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMessenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMessenger.Designer.cs">
+      <DependentUpon>frmMessenger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPagamento.designer.cs">
+      <DependentUpon>frmPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPainelAvisosRetorno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPainelAvisosRetorno.Designer.cs">
+      <DependentUpon>frmPainelAvisosRetorno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPaineldeAlerta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPaineldeAlerta.Designer.cs">
+      <DependentUpon>frmPaineldeAlerta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPaineldeControle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPaineldeControle.Designer.cs">
+      <DependentUpon>frmPaineldeControle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPassword.designer.cs">
+      <DependentUpon>frmPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPremiereDef.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPremiereDef.designer.cs">
+      <DependentUpon>frmPremiereDef.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUSBRepair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUSBRepair.designer.cs">
+      <DependentUpon>frmUSBRepair.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUSBScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUSBScan.Designer.cs">
+      <DependentUpon>frmUSBScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuario.Designer.cs">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmValidar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmValidar.designer.cs">
+      <DependentUpon>frmValidar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Garantia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Garantia.designer.cs">
+      <DependentUpon>Garantia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="cUtils.cs" />
+    <EmbeddedResource Include="frmControledeProdutos.resx">
+      <DependentUpon>frmControledeProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgenda.resx">
+      <DependentUpon>frmAgenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAutoShutdown.resx">
+      <DependentUpon>frmAutoShutdown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmControledeClientes.resx">
+      <DependentUpon>FrmControledeClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmControledeEstoque.resx">
+      <DependentUpon>frmControledeEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmControledeServicos.resx">
+      <DependentUpon>frmControledeServicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdministrador.resx">
+      <DependentUpon>frmAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmControledePag.resx">
+      <DependentUpon>frmControledePag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgEventos.resx">
+      <DependentUpon>frmAgEventos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmControledeSituacao.resx">
+      <DependentUpon>frmControledeSituacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmControledoCliente.resx">
+      <DependentUpon>frmControledoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditor.resx">
+      <DependentUpon>frmEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmail.resx">
+      <DependentUpon>frmEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFerramentas.resx">
+      <DependentUpon>frmFerramentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInfoSistema.resx">
+      <DependentUpon>frmInfoSistema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmControledeOrcamentos.resx">
+      <DependentUpon>frmControledeOrcamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMessenger.resx">
+      <DependentUpon>frmMessenger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPagamento.resx">
+      <DependentUpon>frmPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPainelAvisosRetorno.resx">
+      <DependentUpon>frmPainelAvisosRetorno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaineldeAlerta.resx">
+      <DependentUpon>frmPaineldeAlerta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaineldeControle.resx">
+      <DependentUpon>frmPaineldeControle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPassword.resx">
+      <DependentUpon>frmPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPremiereDef.resx">
+      <DependentUpon>frmPremiereDef.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUSBRepair.resx">
+      <DependentUpon>frmUSBRepair.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUSBScan.resx">
+      <DependentUpon>frmUSBScan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuario.resx">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmValidar.resx">
+      <DependentUpon>frmValidar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Garantia.resx">
+      <DependentUpon>Garantia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\suporteupdater.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="Resources\BoxTriadIcon.ico" />
+    <EmbeddedResource Include="Resources\Eventos">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="Resources\TransAppLogo.png" />
+    <None Include="Resources\Journal.png" />
+    <None Include="Resources\Calculator.png" />
+    <None Include="Resources\Settings.png" />
+    <None Include="Resources\Users.png" />
+    <None Include="Resources\currency_dollar.png" />
+    <None Include="Resources\Move.png" />
+    <None Include="Resources\FB-f-Logo__blue_29.png" />
+    <Content Include="Suporte.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

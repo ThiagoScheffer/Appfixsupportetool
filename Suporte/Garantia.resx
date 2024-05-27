@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>{O uso deste software é restrito a clientes da FIX Tecnologias. }
+-------------------------------------------------------------------------------------
+[HORÁRIOS]
+- Horário comercial: 8:30 a 12:00 - 14:30 às 18:30
+- Sábados e feriados: 9:30 a 12:00
+- Aos domingos não serão realizados serviços nem atendimentos.
+
+[PAGAMENTO]
+- Após a data de prestação do serviço de formatação do computador, o cliente terá o prazo de 30 dias para efetuar o pagamento e a ativação do aplicativo.
+- Caso não o faça, recursos do sistema e alguns aplicativos serão invalidados e será cobrado um valor pelo atendimento extra.
+- Caso houver pendências de serviços prestados anteriormente, qualquer pagamento efetuado cobrirá primeiramente o valor do débito em atraso. 
+- Se o cliente não pagar o montante total, a diferença do valor não pago configurar-se-á como nova pendência.
+- Demais serviços deverão ser pagos até o 7ª dia útil de cada mês.
+   Mantenha o pagamento em dia e evite suspensão parcial/total dos serviços. Para pagamentos após o vencimento, serão cobrados juros de 2% ao mês.
+
+[ATIVAÇÃO]
+- Ao efetuar o pagamento do serviço, acesse o menu de ativação, clicando no botão [Ativar Sistema] e logo após, clique em [Validar Online].
+- A ativação manual pode também ser efetuada através do E-mail, enviando-nos o código da máquina mostrado na janela de ativação. Enviaremos o código resposta para o E-mail que estiver escrito na Caixa de Retorno.
+
+[GARANTIA]
+- Após a conclusão do serviço de formatação, há uma garantia de 30 DIAS corridos, caso necessite de uma nova formatação, alterações de drivers ou instalação de peças.
+- Após a entrega do serviço de formatação, backups realizados serão apagados em no máximo 8 dias corridos.
+- Há um prazo de 8 dias após o término do serviço padrão, para que sejam executadas instalações de outros aplicativos ou reparos sem custo adicional.
+- Se for constatado o uso indevido de programas que afetem o funcionamento normal da máquina ou alterações de hardware, o reparo será realizado e cobrado de acordo com a intervenção necessária.
+- Caso haja alguma falha de software por mau uso da parte do usuário e/ou a presença de algum tipo de praga virtual, será cobrado de acordo com o serviço necessário para efetuar o reparo.
+- Acesso remoto e serviços  não terão custos enquanto estiverem dentro do prazo da garantia. Após o vencimento será cobrado todo e qualquer tipo de reparo e/ou verificação requisitada pelo cliente.
+
+[ACESSO REMOTO]
+- Será cobrada uma taxa de R$ 35,00 (trinta e cinco reais) a cada acesso remoto requisitado pelo cliente, independentemente do tempo de atendimento, para resolver problemas ou verificar a máquina.
+- Após o horário comercial: Das 18:30 até 22:00, o valor do atendimento é de R$ 50,00 (cinquenta reais)
+- Nos sábados e feriados, o valor do atendimento é de R$ 60,00 (sessenta reais)
+- Ao ser finalizado o serviço de acesso, o cliente terá o prazo de até 24Hrs para requerer um novo acesso sem custo, caso o problema não seja solucionado, após este prazo será cobrado o valor de um novo acesso.
+
+*Não serão cobrados os acessos remotos para atualizações ou verificação da máquina que sejam solicitados pelo próprio técnico.
+
+[PROTEÇÃO DOS DADOS NO ACESSO REMOTO]
+- Para computadores "Pessoais", a senha e dados usados são sempre aleatórios, impossibilitando qualquer tentativa de acesso indevido.
+- Acessos realizados para computadores "Empresariais" são configurados e fixados de forma segura e protegida a cada acesso, para os quais também é gerado um "log" de informações de tudo que é feito.
+- Em hipótese alguma são utilizados ou transferidos dados do cliente sem o devido consentimento.
+- Nenhum programa ou aplicativo transferido pelo acesso remoto tem a chance de conter vírus, todos são rígida e constantemente verificados.
+
+ATENÇÃO
+------------------------------------------------------------------------------------------------------------------------------
+-O aplicativo é configurado de forma exclusiva para a máquina de cada cliente. Não nos responsabilizamos pelo uso indevido em outra máquina.
+-Qualquer tentativa detectada de burlar o aplicativo resultará em perda total da garantia e o sistema deixará de funcionar após 30 dias.
+-Não nos responsabilizamos por erros e problemas vindos diretamente do software de edição ou semelhantes.
+-Não nos responsabilizamos pela existência de software ilegal neste computador. A utilização ilícita de software é de total responsabilidade do cliente.
+-A negligência do pagamento do(s) serviço(s) acarretará em total perda de suporte ou atendimento futuros.
+
+-Este aplicativo é gratuito, faz parte do serviço em um computador configurado pela 
+  FIX Tecnologias e será frequentemente atualizado, para maior segurança do sistema.</value>
+  </data>
+</root>
