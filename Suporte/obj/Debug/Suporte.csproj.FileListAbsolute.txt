@@ -1,0 +1,154 @@
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\bin\Debug\Resources\suporteupdater.exe
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\bin\Debug\Resources\Eventos
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\bin\Debug\Suporte.exe.config
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\bin\Debug\Suporte.exe
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\bin\Debug\Suporte.pdb
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.csprojResolveAssemblyReference.cache
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeProdutos.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmAgenda.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmAutoShutdown.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.FrmControledeClientes.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeEstoque.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeServicos.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmAdministrador.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledePag.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmAgEventos.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeSituacao.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledoCliente.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmEditor.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmEmail.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmFerramentas.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmInfoSistema.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeOrcamentos.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmMessenger.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmPagamento.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmPaineldeControle.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmPassword.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmReportPrint.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmUSBRepair.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmUSBScan.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmUsuario.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmValidar.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.Garantia.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.Properties.Resources.resources
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.csproj.GenerateResource.Cache
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.exe
+C:\Users\EncryptorX\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.pdb
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeProdutos.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmAgenda.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmAutoShutdown.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.FrmControledeClientes.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeEstoque.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeServicos.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmAdministrador.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledePag.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmAgEventos.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeSituacao.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledoCliente.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmEditor.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmEmail.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmFerramentas.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmInfoSistema.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeOrcamentos.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.Messenger.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmPagamento.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmPaineldeControle.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmPassword.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmReportPrint.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmUSBRepair.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmUSBScan.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmUsuario.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmValidar.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.Garantia.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.csproj.GenerateResource.Cache
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\bin\Debug\Resources\suporteupdater.exe
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\bin\Debug\Resources\Eventos
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\bin\Debug\Suporte.exe.config
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\bin\Debug\Suporte.exe
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\bin\Debug\Suporte.pdb
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.Properties.Resources.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.exe
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.pdb
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmPaineldeAlerta.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmPremiereDef.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.frmAvisosRetorno.resources
+C:\Users\Studio\Documents\Visual Studio 2013\Projects\Suporte\Suporte\obj\Debug\Suporte.csprojResolveAssemblyReference.cache
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\bin\Debug\Resources\suporteupdater.exe
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\bin\Debug\Resources\Eventos
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\bin\Debug\Suporte.exe.config
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\bin\Debug\Suporte.exe
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\bin\Debug\Suporte.pdb
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\bin\Debug\Toasts.Forms.Plugin.Abstractions.dll
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\bin\Debug\Toasts.Forms.Plugin.Abstractions.pdb
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeProdutos.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmAgenda.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmAutoShutdown.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.FrmControledeClientes.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeEstoque.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeServicos.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmAdministrador.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledePag.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmAgEventos.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeSituacao.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledoCliente.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmEditor.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmEmail.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmFerramentas.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmInfoSistema.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmControledeOrcamentos.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.Messenger.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmPagamento.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmAvisosRetorno.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmPaineldeAlerta.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmPaineldeControle.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmPassword.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmPremiereDef.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmUSBRepair.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmUSBScan.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmUsuario.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.frmValidar.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.Garantia.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.Properties.Resources.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.csproj.GenerateResource.Cache
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.exe
+C:\Users\Visual Studio\Documents\Visual Studio 2015\Projects\Suporte\Suporte\obj\Debug\Suporte.pdb
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\bin\Debug\Resources\suporteupdater.exe
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\bin\Debug\Resources\Eventos
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\bin\Debug\Suporte.exe.config
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\bin\Debug\Suporte.exe
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\bin\Debug\Suporte.pdb
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\bin\Debug\Toasts.Forms.Plugin.Abstractions.dll
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\bin\Debug\Toasts.Forms.Plugin.Abstractions.pdb
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmControledeProdutos.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmAgenda.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmAutoShutdown.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.FrmControledeClientes.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmControledeEstoque.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmControledeServicos.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmAdministrador.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmControledePag.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmAgEventos.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmControledeSituacao.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmControledoCliente.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmEditor.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmEmail.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmFerramentas.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmInfoSistema.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmControledeOrcamentos.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.Messenger.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmPagamento.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmAvisosRetorno.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmPaineldeAlerta.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmPaineldeControle.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmPassword.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmPremiereDef.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmUSBRepair.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmUSBScan.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmUsuario.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.frmValidar.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.Garantia.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.Properties.Resources.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.csproj.GenerateResource.cache
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.csproj.CopyComplete
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.exe
+C:\Users\Visual\Documents\Visual Studio 2019\Suporte\Suporte\obj\Debug\Suporte.pdb
